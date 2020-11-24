@@ -16,9 +16,11 @@ public class FirstClass {
 				
 		System.out.println("This is the second commit from remote master");
 		
+
 		System.out.println("This is the first commit from ali master");
 		
 		System.out.println("This is the second commit from local ali");
+
 
 	}
 
