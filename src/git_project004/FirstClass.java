@@ -20,7 +20,7 @@ public class FirstClass {
 		System.out.println("This is the first commit from ali master");
 		
 		System.out.println("This is the second commit from local ali");
-
+		System.out.println("This is the third commit from local ali");
 
 	}
 
